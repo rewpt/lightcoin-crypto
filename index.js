@@ -77,6 +77,6 @@ const t3 = new Withdrawal(9.99, myAccount);
 console.log('Commit result:', t3.commit());
 
 console.log('Ending Account Balance: ', myAccount.balance);
-console.log("Lookings like I'm broke again");
+console.log("Looks like I'm broke again");
 
 console.log('Account Transaction History: ', myAccount.transactions);
